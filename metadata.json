@@ -1,0 +1,6 @@
+{
+  "name": "AgentFlow Studio",
+  "description": "Enterprise SaaS AI Agent Orchestration Dashboard featuring dynamic workflow graph builder, multi-agent reasoning execution, real-time telemetry, model routing, and intelligence analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
